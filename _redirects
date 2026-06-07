@@ -1,5 +1,8 @@
-/p/*	https://cn.upload.s.7c7.icu/download_plaintext.html	200
-/m/*	https://cn.upload.s.7c7.icu/download_markdown.html	200
+# URL forwarding
+https://cn.s.7c7.icu/* https://cn-file.legacy.s7.hixland.com/:splat
+
+/p/*	https://cn-upload.legacy.s7.hixland.com/download_plaintext.html	200
+/m/*	https://cn-upload.legacy.s7.hixland.com/download_markdown.html	200
 
 # Common download
-/*	https://cn.upload.s.7c7.icu/download.html 200
+/*	https://cn-upload.legacy.s7.hixland.com/download.html 200
